@@ -1,1 +1,1 @@
-# Spore-FPS-Counter
+# Spore FPS Counter
